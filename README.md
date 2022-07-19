@@ -7,7 +7,7 @@ https://www.amazon.com/Targus-4-Port-SuperSpeed-Adapter-ACH119US/dp/B005MR5HGI/
 small review....
 
 has:
-1x micro-USB B 3.0 port to PC/Mac host USB 3.0 port "input"
+1x micro-USB B 3.0 port to PC/Mac host USB 3.0 A port "input"
 1x USB 3.0 micro-B to A cable, fat bold cable = good quality.
 1x small Blue LED when connected to host or AC-DC adapter.
 3x Blue USB 3.0 A-ports. 1Amp each "Outputs", in theory.
