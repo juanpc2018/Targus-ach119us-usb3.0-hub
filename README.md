@@ -8,7 +8,7 @@ small review....
 
 has:
 1x micro-USB B 3.0 port to PC/Mac host USB 3.0 port "input"
-1x USB 3.0 B to A cable, fat bold cable = good quality.
+1x USB 3.0 micro-B to A cable, fat bold cable = good quality.
 1x small Blue LED when connected to host or AC-DC adapter.
 3x Blue USB 3.0 A-ports. 1Amp each "Outputs", in theory.
 1x Black USB 3.0 that should be Red: "4Amp / Fast Charge", in theory.
