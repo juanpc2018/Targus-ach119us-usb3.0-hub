@@ -36,3 +36,5 @@ https://www.station-drivers.com/index.php/en/driverss/Drivers/Via/USB/Firmwares/
 
 P.D. Older Factory Default Firmware does Not work in rEFInd, does Not detect OSX boot drives HighSierra/Catalina in Macmini 2014, when USB to SATA case has Asmedia IC.
 havent tested the New / Latest Firmware.
+This USB Hub is mostly for USB 3.0 mass storage external hdds that does Not have optional AC-DC power input.
+like most 1TB / 2TB portable hdd from Toshiba & Seagate.
