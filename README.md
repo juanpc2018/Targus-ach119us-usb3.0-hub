@@ -18,9 +18,10 @@ only when DC input is 9v-12v or more includes internal voltage regulators.
 4.5v is the minimum threshold, but 4.8v is with in tolerance values.
 5.2v is the maximum useable limit.
 Apple original Ac-DC adapter A1401 has 5.2vdc 2.4Amps.
-Belkin USB2.0 F5U404-BLK is a nice usb2.0 hub, but ac-dc adapter has 5.3vdc, and mini-USB cable tolerance is too small.
+Belkin USB2.0 F5U404-BLK is a nice usb2.0 hub, but ac-dc adapter has 5.3vdc, and mini-USB cable connector tolerance is too small.
+Belkin had tolerance problems with cable connectors, lightning too big, microUSB too small, etc... but the hub is very good.
 
-IC controler is VIA VL813
+Targus ach119us IC controler is a VIA VL813,
 needs Firmware update,
 USB 3.0 host port with 1A.
 Windows8.1x64 works ok.
