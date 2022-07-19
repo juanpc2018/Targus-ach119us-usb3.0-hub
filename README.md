@@ -40,6 +40,6 @@ https://www.station-drivers.com/index.php/en/driverss/Drivers/Via/USB/Firmwares/
 P.D. Older Factory Default Firmware does Not work in rEFInd, does Not detect OSX boot drives HighSierra/Catalina in Macmini 2014, when USB to SATA case has Asmedia IC.
 havent tested the New / Latest Firmware.
 This USB Hub is mostly for USB 3.0 mass storage external hdds that does Not have optional AC-DC power input.
-like most 1TB / 2TB portable hdd from Toshiba & Seagate.
-some computers like Asus M5401 All-In-One does Not have enough power in the USB ports, and unpowered external hdd shutdown.
-some µSD readers also shutdown, because the heat, a different problem.
+like most 2.5" 1TB / 2TB external portable hdds from Toshiba, Seagate, etc...
+some computers like Asus M5401 All-In-One does Not have enough power in some of the USB3.0 ports, external hdd shutdown.
+some µSD readers also shutdown, because the heat, different problem.
