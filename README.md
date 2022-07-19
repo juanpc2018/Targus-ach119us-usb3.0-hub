@@ -38,3 +38,5 @@ P.D. Older Factory Default Firmware does Not work in rEFInd, does Not detect OSX
 havent tested the New / Latest Firmware.
 This USB Hub is mostly for USB 3.0 mass storage external hdds that does Not have optional AC-DC power input.
 like most 1TB / 2TB portable hdd from Toshiba & Seagate.
+some computers like Asus M5401 All-In-One does Not have enough power in the USB ports, and unpowered external hdd shutdown.
+some µSD readers also shutdown, because the heat, a different problem.
