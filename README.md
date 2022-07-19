@@ -13,9 +13,9 @@ has:
 3x Blue USB 3.0 A-ports. 1Amp each "Outputs", in theory.
 1x Black USB 3.0 that should be Red: "4Amp / Fast Charge", in theory.
 1x AC-DC Adapter 5v 4A "in theory", actually: 4.9vdc.
-most digital devices fail when voltages is over 5.2vdc because dont have voltage regulators, 
+most digital devices fail when voltage is over 5.2vdc because dont have internal voltage regulators, 
 only when DC input is 9v-12v or more includes internal voltage regulators. 
-4.5v is the minimum threshold, but 4.8v is ok, with in tolerance values.
+4.5v is the minimum threshold, but 4.8v is with in tolerance values.
 5.2v is the maximum useable limit.
 
 IC controler is VIA VL813
