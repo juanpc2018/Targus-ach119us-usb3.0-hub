@@ -17,6 +17,8 @@ most digital devices fail when voltage is over 5.2vdc because dont have internal
 only when DC input is 9v-12v or more includes internal voltage regulators. 
 4.5v is the minimum threshold, but 4.8v is with in tolerance values.
 5.2v is the maximum useable limit.
+Apple original Ac-DC adapter A1401 has 5.2vdc 2.4Amps.
+Belkin USB2.0 F5U404-BLK is a nice usb2.0 hub, but ac-dc adapter has 5.3vdc, and mini-USB cable tolerance is too small.
 
 IC controler is VIA VL813
 needs Firmware update,
