@@ -34,3 +34,5 @@ https://www.station-drivers.com/index.php/en/driverss/Drivers/Via/USB/Firmwares/
 Older:
 https://www.station-drivers.com/index.php/en/driverss/Drivers/Via/USB/Firmwares/Via-VL813/lang,en-gb/
 
+P.D. Older Factory Default Firmware does Not work in rEFInd, does Not detect OSX boot drives HighSierra/Catalina in Macmini 2014, when USB to SATA case has Asmedia IC.
+havent tested the New / Latest Firmware.
